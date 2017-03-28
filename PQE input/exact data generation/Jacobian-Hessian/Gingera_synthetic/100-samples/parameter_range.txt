@@ -1,0 +1,15 @@
+[1] "Nsamp = 100"
+
+Hydromad model with "cmd" SMA and "expuh" routing:
+Start = 1970-04-11, End = 1979-09-22
+
+SMA Parameters:
+     lower  upper  
+f   0.5001   1.50  
+e   0.9900   1.01  
+d 200.0350 549.97  
+Routing Parameters:
+        lower   upper  
+tau_q   3.001   9.999  
+tau_s 200.080 999.920  
+v_s     0.700   1.000  
