@@ -1,0 +1,7 @@
+     Index                  P                 Q                  E         
+ Min.   :1970-04-11   Min.   :  0.000   Min.   : 0.05523   Min.   : 0.000  
+ 1st Qu.:1972-08-20   1st Qu.:  0.000   1st Qu.: 0.41455   1st Qu.: 1.600  
+ Median :1974-12-31   Median :  0.040   Median : 0.65021   Median : 3.040  
+ Mean   :1974-12-31   Mean   :  2.929   Mean   : 1.06519   Mean   : 3.504  
+ 3rd Qu.:1977-05-12   3rd Qu.:  1.470   3rd Qu.: 1.13665   3rd Qu.: 4.960  
+ Max.   :1979-09-22   Max.   :136.050   Max.   :23.84412   Max.   :18.320  

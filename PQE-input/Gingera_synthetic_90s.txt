@@ -1,0 +1,7 @@
+     Index                  P                Q                E         
+ Min.   :1990-04-11   Min.   : 0.000   Min.   :0.0000   Min.   : 0.160  
+ 1st Qu.:1992-08-20   1st Qu.: 0.000   1st Qu.:0.1602   1st Qu.: 1.600  
+ Median :1994-12-31   Median : 0.060   Median :0.4804   Median : 3.200  
+ Mean   :1994-12-31   Mean   : 2.846   Mean   :0.7942   Mean   : 3.557  
+ 3rd Qu.:1997-05-12   3rd Qu.: 1.210   3rd Qu.:1.1694   3rd Qu.: 4.960  
+ Max.   :1999-09-22   Max.   :99.110   Max.   :7.3905   Max.   :15.840  

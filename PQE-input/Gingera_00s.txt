@@ -1,0 +1,7 @@
+     Index                  P                Q                  E        
+ Min.   :2000-01-01   Min.   : 0.000   Min.   :0.005989   Min.   : 0.16  
+ 1st Qu.:2002-07-02   1st Qu.: 0.000   1st Qu.:0.129764   1st Qu.: 1.92  
+ Median :2004-12-31   Median : 0.060   Median :0.264290   Median : 3.36  
+ Mean   :2004-12-31   Mean   : 2.291   Mean   :0.458027   Mean   : 3.90  
+ 3rd Qu.:2007-07-02   3rd Qu.: 1.020   3rd Qu.:0.576383   3rd Qu.: 5.44  
+ Max.   :2009-12-31   Max.   :72.270   Max.   :6.606247   Max.   :15.20  

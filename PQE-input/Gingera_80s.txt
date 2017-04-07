@@ -1,0 +1,7 @@
+     Index                  P                 Q                   E         
+ Min.   :1980-01-01   Min.   :  0.000   Min.   : 0.005066   Min.   : 0.000  
+ 1st Qu.:1982-07-02   1st Qu.:  0.000   1st Qu.: 0.145170   1st Qu.: 1.600  
+ Median :1984-12-31   Median :  0.050   Median : 0.467974   Median : 3.200  
+ Mean   :1984-12-31   Mean   :  2.774   Mean   : 0.804629   Mean   : 3.856  
+ 3rd Qu.:1987-07-02   3rd Qu.:  1.280   3rd Qu.: 1.094209   3rd Qu.: 5.440  
+ Max.   :1989-12-31   Max.   :104.670   Max.   :15.513108   Max.   :18.080  
