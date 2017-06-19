@@ -4,8 +4,8 @@ library('sensitivity')
 library(boot)
 library('xts')
 library(parallel)
-source('C:/UserData/seol/Sensitivity Analyses/PQE-input/load_pqe_hobj.R')
-source('C:/UserData/seol/Sensitivity Analyses/PQE-input/functions_morris.R')
+source('PQE-input/load_pqe_hobj.R')
+source('PQE-input/functions_morris.R')
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
 
 method_morris <- function (t_catchment='Gingera_synthetic', t_year = '70s', Nsamp =50){
