@@ -1,11 +1,6 @@
 #Sobol & DELSA for Sacramento
-library('hydromad')
-library('sensitivity')
-library(boot)
-library('xts')
-library(parallel)
-source('PQE-input/load_pqe_hobj.R')
-source('PQE-input/functions_morris.R')
+library('hydromad');library('sensitivity');library(boot);library('xts');library(parallel)
+source('PQE-input/load_pqe_hobj.R');source('PQE-input/functions_morris.R')
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
 
 method_morris <- function (t_catchment='Gingera_synthetic', t_year = '70s', Nsamp =50){
